@@ -50,7 +50,7 @@ core-foundation = "0.9"
 png = "0.17"
 
 [dev-dependencies]
-winit = "0.29"
+winit = "0.30"
 tao = "0.28"
 image = "0.25"
 eframe = "0.27"
